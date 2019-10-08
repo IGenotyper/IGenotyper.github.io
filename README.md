@@ -1,1 +1,1 @@
-# Testing
+# Resolving the IGH locus
