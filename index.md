@@ -1,5 +1,5 @@
 <h1 style="color:black;">About</h1>
-<p style="color:black;">For more instructions on how to download IGenotyper and a more detailed explanation on how to run IGenotyper go to the IGenotyper github site: [https://github.com/oscarlr/IGenotyper](https://github.com/oscarlr/IGenotyper).</p>
+<p style="color:black;">For more instructions on how to download IGenotyper and a more detailed explanation on how to run IGenotyper go to the IGenotyper github site: [IGenotyper](https://github.com/oscarlr/IGenotyper).</p>
 <p style="color:black;">This repository is a more detailed analysis on the IGenotyper and it's output.</p>
 <p></p>
 <h1>Quick start</h1>
